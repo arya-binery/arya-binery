@@ -12,3 +12,4 @@
 
 <h2 align="left">Ways of Communication 📞 : </h2>
 
+<a href="mailto:arya.salehi.proacc@gmail.com"><img src="https://github.com/arya-binery/arya-binery/blob/main/image/icons8-gmail-logo-64.png?raw=true"></a>
