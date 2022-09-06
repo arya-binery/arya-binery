@@ -12,4 +12,14 @@
 
 <h2 align="left">Currently, I'm learning 📈 : </h2>
 
-<h3 align="left">🔮Python | 90%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="450px">
+<h3 align="left">🔮Python | 75%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="375px">
+
+<h3 align="left">🔮Html5 & Css3 | 5%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="25px">
+
+<h3 align="left">🔮JavaScript | 10%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="50px">
+
+<h3 align="left">🔮MySQL | 15%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="75px">
+
+<h3 align="left">🔮jQuery | 1%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="5px">
+
+<h3 align="left">🔮PHP | 1%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="5px">
