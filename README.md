@@ -18,7 +18,7 @@
 
 <h3 align="left">🔮Python | 75%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="375px">
 
-<h3 align="left">🔮Html5 & Css3 | 5%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="25px">
+<h3 align="left">🔮Html5 & Css3 | 25%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="25px">
 
 <h3 align="left">🔮JavaScript | 10%</h3> <img src="https://github.com/arya-binery/arya-binery/blob/main/image/bar.png?raw=true" height="16px" width="50px">
 
